@@ -1,0 +1,18 @@
+= Pr0Commenter
+v0.1
+:icons: font
+
+IMPORTANT: As with the original project, this is only for reference. Please be kind to the Pr0-Servers. No active development / testing. Might be highly unoptimized.
+
+== Changelog
+
+
+This is a modified version of the YouTubeCommenter:
+
+## YouTubeCommenter
+AI to generate YouTube comments based on video title.
+
+**PLEASE NOTE:** This project is primarily available for reference, it is not in active development.
+
+# Video
+https://youtu.be/tY6SvZEic9k
